@@ -1,7 +1,7 @@
 var jso = new JSO({
     providerID: "youtube",
     client_id: "970708493348-emtk6b0nucmms5rlp6g5sis39tbp9ffb.apps.googleusercontent.com",
-    redirect_URI: "https://github.com/Adlbert/SyncStreaming/blob/master/Projects/Chrome%20Extension/SyncStreaming/SyncStreaming.html",
+    redirect_URI: "https://github.com/Adlbert/SyncStreaming/blob/master/SyncStreaming/auth.js",
     authorization: "https://accounts.google.com/o/oauth2/auth",
     scopes: { request: ["https://www.googleapis.com/auth/youtube"]}
 });
